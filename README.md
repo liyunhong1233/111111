@@ -27,7 +27,7 @@
  </head>
  <body>
   <div>默认文字</div>
-       <p>红色的文字<span>蓝色的文字</span><strong><em>改变的地方</em></strong></p >
+       <p>红色的文字<span>蓝色的文字</span><strong><em>改变地方</em></strong></p >
     <ul class="font16">
      <li>G<span class="font30 text-yellow">oogl</span></li>
     </ul>
